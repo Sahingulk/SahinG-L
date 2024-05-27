@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python-intermediate level**
 
-- 📫 How to reach me **sahi.gulbtu@gmail.com**
+- 📫 How to reach me **sahin.gulbtu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
